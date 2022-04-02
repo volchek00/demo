@@ -1,1 +1,2 @@
-nejde mi to
+<<<<<<< HEAD
+nejde mi to a mam hlad
